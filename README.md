@@ -1,5 +1,7 @@
 # Italian Style - Single Skill with 18 Regional Dialects
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/PaoEng/Italian-Style)
+
 Una **singola skill postprocessore** che riscrive le risposte di Copilot in uno dei 18 dialetti italiani regionali. Se il dialetto non è specificato, **chiede all'utente quale scegliere**.
 
 ## 📍 Dialetti Supportati (18 Regioni)
